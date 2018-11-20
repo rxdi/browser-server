@@ -1,0 +1,20 @@
+{
+  "name": "@rxdi/browser-server",
+  "version": "0.0.341",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kristiyan Tachev",
+  "license": "MIT",
+  "dependencies": {
+    "@rxdi/core": "^0.0.340",
+    "@types/events": "^1.2.0",
+    "browser-server": "^1.0.3",
+    "readable-stream": "^2.2.9"
+  },
+  "devDependencies": {
+    "typescript": "^3.0.3"
+  }
+}
