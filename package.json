@@ -1,6 +1,6 @@
 {
   "name": "@rxdi/browser-server",
-  "version": "0.7.37",
+  "version": "0.7.38",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -19,6 +19,6 @@
     "readable-stream": "^2.2.9"
   },
   "devDependencies": {
-    "typescript": "^3.0.3"
+    "typescript": "^3.5.3"
   }
 }
